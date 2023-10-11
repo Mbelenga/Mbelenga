@@ -10,7 +10,7 @@
 
 ✈️ Am also an aviation enthusiast.
 
-📬 Let's connect! I'm always open to interesting conversations, collaborations, and new opportunities. Feel free to reach out to me right here on GitHub or on [LinkedIn](https://www.linkedin.com/in/terrencembelenga/).
+📬 Let's connect! I'm always open to interesting conversations, collaborations, and new opportunities. Feel free to reach out to me right here on GitHub
 
 
 🚀 Let's build the future in tech🌍
