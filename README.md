@@ -8,9 +8,10 @@
 
 🔧 Currently, I'm sharpening my coding skills, learning new languages and frameworks, and building some cool projects along the way. I'm looking forward to contributing to open-source projects and sharing my knowledge with the tech community.
 
-🚴‍♂️ Am also an aviation enthusiast.
+✈️ Am also an aviation enthusiast.
 
 📬 Let's connect! I'm always open to interesting conversations, collaborations, and new opportunities. Feel free to reach out to me right here on GitHub or on [LinkedIn](https://www.linkedin.com/in/terrencembelenga/).
+
 
 🚀 Let's build the future in tech🌍
 
