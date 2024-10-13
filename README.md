@@ -1,5 +1,8 @@
 # 💫 About Me:
-’m currently working on BookHub, an app where users can read, review, and rate different books. I'm expanding it to include a social feature. I’m open to collaborating on Python-based projects, especially with Django as I’m just starting to learn it. I’m also diving into Node.js and excited to discuss backend development. Fun fact: I’m passionate about aviation!"
+I’m currently working on BookHub, an app where users can read, review, and rate different books. I'm expanding it to include a social feature.
+I’m open to collaborating on Python-based projects, especially with Django as I’m just starting to learn it.
+I’m also diving into Node.js and excited to discuss backend development.
+Fun fact: I’m passionate about aviation!"
 
 
 ## 🌐 Socials:
