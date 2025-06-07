@@ -1,9 +1,10 @@
-# Hi there 👋
+# Hello, I'm Terrence  
+# Code. Learn. Build. Repeat.
 
 I'm a passionate software engineer who loves building meaningful projects that solve real-world problems. I specialize in **Python** for backend development and I'm currently learning **React.js** to enhance my frontend skills.
 
 ## 🔧 Tech Stack
-- **Languages:** Python, JavaScript, C
+- **Languages:** Python, JavaScript, C, TypeScript
 - **Frameworks:** Flask, Django, React.js (learning)
 - **Tools:** Git, MySQL, VSCode
 
@@ -14,6 +15,8 @@ I'm a passionate software engineer who loves building meaningful projects that s
 ## 📚 Projects
 - **ExploreEase** – A travel booking platform
 - **BookHub** – A book review and discovery app
+
+**Keep building, keep learning! 💪**
 
 Thanks
 
