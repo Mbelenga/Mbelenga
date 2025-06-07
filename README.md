@@ -1,4 +1,21 @@
-Hi There
+# Hi there 👋
+
+I'm a passionate software engineer who loves building meaningful projects that solve real-world problems. I specialize in **Python** for backend development and I'm currently learning **React.js** to enhance my frontend skills.
+
+## 🔧 Tech Stack
+- **Languages:** Python, JavaScript, C
+- **Frameworks:** Flask, Django, React.js (learning)
+- **Tools:** Git, MySQL, VSCode
+
+## 🌱 Currently Learning
+- React.js – Components, Hooks, and State Management
+- Advanced Python – Clean architecture and scalable systems
+
+## 📚 Projects
+- **ExploreEase** – A travel booking platform
+- **BookHub** – A book review and discovery app
+
+Thanks
 
 
 ## 🌐 Socials:
